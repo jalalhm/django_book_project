@@ -4,6 +4,7 @@
 
 🔧 Features:
 
+
 📦 Django ORM: Utilizes Django's powerful Object-Relational Mapping for database interactions.
 🌟 User Authentication: Implements secure user authentication and registration.
 🌐 RESTful API: Provides a RESTful API for easy integration with frontend frameworks.
@@ -17,8 +18,6 @@
 👨‍💻 Contributions: We welcome contributions from the open-source community. Whether you want to fix bugs, add new features, or improve documentation, your help is appreciated.
 
 📦 Getting Started: Clone the repository, follow the setup instructions in the README, and start building your own Django web applications with ease!
-
-🔗 GitHub Repository:https://github.com/abdobzx/django_book_project
 
 🚀 Join the Community: Be part of our growing community of Django enthusiasts. Feel free to ask questions, share your insights, and collaborate on making this project even better!
 
